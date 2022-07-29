@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Gurias Coloradas News</string>
+    <string name="app_name">News Gurias Coloradas</string>
 
-    <string name="title_news">Gurias Coloradas</string>
-    <string name="title_favorites">Favorites</string>
+    <string name="title_news">Noticias</string>
+    <string name="title_favorites">Favoritos</string>
 
     <string name="cd_news_image">News image.</string>
     <string name="cd_favorite_icon">Favorite icon.</string>
